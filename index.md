@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+#Zhou Lin (FancyZero	)  
+Birth: 1981.6  
+Email: fancyzerokami@gmail.com
+Cellphone: (+86) 138-1696-0209  
 
-You can use the [editor on GitHub](https://github.com/fancyzero/fancyzero.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Strengths  
+* A passionate game developer, Make games since 14 years old.  
+* Quick learner, good at pattern recognition.  
+* Have a good understanding in render technics, accomplished a simple software renderer (included transforming and rasterizing)  
+* Experienced in client architecture, including resource management, multithread rendering, scripting, scene management,  etc.  
+* Familiar with reverse engineering and assembly analysis.  
+* Experienced with C++ (including C++11), and Familiar with Objective-C, Python, Object-Pascal, Basic. And understand the concepts of functional programming language , e.g. Haskell, erlang.Good art appreciation.  
+* Familiar with data structure and common algorithms.  
+* Favorite games: Quake I, StarCraft I, Dota2  
+* Hobby: Piano, Composing music, Pixel art  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Experience  
+###Personal Project  
+* Space shooting Indie game (WIP)  
+* Python for iOS  
+* Embed python using SWIG  
+* LOD Terrain system  
+* In-house Game Engine 2D/3D  
+* Software renderer  
+* O2mania (Music game) http://o2mania.com. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
+* A dynamic UI system descripted by xml(Used in o2mania)  
 
-### Markdown
+###2014.9 - present, CCP shanghai
+###Project: Gunjack
+*Principal Technical Artist/Programmer
+**Responsibility:**
+* Providing tech support for team, figure out solutions
+* Setup art tools and work flow
+* Making tools
+* Performance optimization/ Profiling
+* Help artist to using UE4
+* Using and get familiar with WWise as audio solution for project
+* Learning stuff that I insrested.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###2007.5 - 2014.9, Playcool (Alternate: Icee)  
+####Project: N/A
+*Technic support*  
+**Responsibility:**  
+*	Focus on solving technical problems for all other project team  
+*	Provide advice on technical solutions  
+*	Develop fundamental modules for other team to use, such as: game content auto update system; customized UI component; plugins for 3DMax or other third party tools.  
+* Learning stuff that I insrested.
 
-```markdown
-Syntax highlighted code block
+####Project: TaoYuan (MMORPG)  
+*Engine programmer*  
+**Responsibility**  
+*	Tune and refine UE3 to suit with project needs, such as Navigation meshes, 3DMax plugins, none-blocking character loading, etc. Read and modified lots of UE3 source codes.  
+*	Performances optimize.  
+*	Making Tools for designer and artists  
+*	Shader template composition  
+*	Game launcher with an auto update system  
+*	Third party tools evaluation. (Cooperated with Substance Redux for few weeks).  
+*	Teaching artists on using UE3, and some TA work 
 
-# Header 1
-## Header 2
-### Header 3
+####Project: TopSpeed (Car racing game)  
+*Client programmer*  
+**Responsibility**  
+*	All rendering related works.(Fixed pipeline)  
+*	Performances optimize.  
+*	Making Tools for designer and artists  
+*	Some gameplay related works.  
 
-- Bulleted
-- List
+###2005 - 2007.5, Masq  
+####Project: LiuLiu (Pet game)  
+*Client programmer*  
+**Responsibility**  
+*	Client Framework.  
+*	Gameplay code.  
+*	A html based UI system, using OLE, internet ActiveX control  
 
-1. Numbered
-2. List
+####2003 - 2005, YiXi Shanghai  
+####Project: Salvation (MMORPG)  
+*Client programmer*  
+**Responsibility**  
+*	A sky system with varying effects through day and night  
+*	Gameplay code.  
+*	Making Tools for designer and artists  
+*	Scene editor: terrain editing, scene object placement, shore wave auto generation, etc.  
+*	Dynamic map loading.  
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fancyzero/fancyzero.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Education  
+1999 - 2007, Shanghai Television University.  

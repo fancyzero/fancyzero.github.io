@@ -26,7 +26,7 @@ Cellphone: (+86) 138-1696-0209
 * A dynamic UI system descripted by xml(Used in o2mania)  
 
 ### 2014.9 - present, CCP shanghai
-### Project: Gunjack  
+#### Project: Gunjack  
 *Principal Technical Artist/Programmer* 
 ** Responsibility: **
 * Providing tech support for team, figure out solutions

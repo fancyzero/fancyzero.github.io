@@ -27,8 +27,9 @@ Cellphone: (+86) 138-1696-0209
 
 ### 2014.9 - present, CCP shanghai
 ### Project: Gunjack
-*Principal Technical Artist/Programmer*
-**Responsibility:**
+* Principal Technical Artist/Programmer *
+** Responsibility: **
+
 * Providing tech support for team, figure out solutions
 * Setup art tools and work flow
 * Making tools
@@ -41,6 +42,7 @@ Cellphone: (+86) 138-1696-0209
 ####Project: N/A
 *Technic support*  
 **Responsibility:**  
+
 *	Focus on solving technical problems for all other project team  
 *	Provide advice on technical solutions  
 *	Develop fundamental modules for other team to use, such as: game content auto update system; customized UI component; plugins for 3DMax or other third party tools.  
@@ -49,6 +51,7 @@ Cellphone: (+86) 138-1696-0209
 #### Project: TaoYuan (MMORPG)  
 *Engine programmer*  
 **Responsibility**  
+
 *	Tune and refine UE3 to suit with project needs, such as Navigation meshes, 3DMax plugins, none-blocking character loading, etc. Read and modified lots of UE3 source codes.  
 *	Performances optimize.  
 *	Making Tools for designer and artists  
@@ -60,6 +63,7 @@ Cellphone: (+86) 138-1696-0209
 #### Project: TopSpeed (Car racing game)  
 *Client programmer*  
 **Responsibility**  
+
 *	All rendering related works.(Fixed pipeline)  
 *	Performances optimize.  
 *	Making Tools for designer and artists  
@@ -69,6 +73,7 @@ Cellphone: (+86) 138-1696-0209
 #### Project: LiuLiu (Pet game)  
 *Client programmer*  
 **Responsibility**  
+
 *	Client Framework.  
 *	Gameplay code.  
 *	A html based UI system, using OLE, internet ActiveX control  
@@ -77,6 +82,7 @@ Cellphone: (+86) 138-1696-0209
 #### Project: Salvation (MMORPG)  
 *Client programmer*  
 **Responsibility**  
+
 *	A sky system with varying effects through day and night  
 *	Gameplay code.  
 *	Making Tools for designer and artists  

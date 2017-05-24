@@ -1,7 +1,8 @@
 # Zhou Lin (FancyZero	)  
 Birth: 1981.6  
 Email: fancyzerokami@gmail.com
-Cellphone: (+86) 138-1696-0209  
+Cellphone: (+86) 138-1696-0209
+[中文](chn.html)
 
 ## Strengths  
 * A passionate game developer, Make games since 14 years old.  

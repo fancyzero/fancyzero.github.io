@@ -29,7 +29,6 @@ Cellphone: (+86) 138-1696-0209
 ### Project: Gunjack
 * Principal Technical Artist/Programmer *
 ** Responsibility: **
-
 * Providing tech support for team, figure out solutions
 * Setup art tools and work flow
 * Making tools
@@ -38,11 +37,10 @@ Cellphone: (+86) 138-1696-0209
 * Using and get familiar with WWise as audio solution for project
 * Learning stuff that I insrested.
 
-###2007.5 - 2014.9, Playcool (Alternate: Icee)  
-####Project: N/A
+### 2007.5 - 2014.9, Playcool (Alternate: Icee)  
+#### Project: N/A
 *Technic support*  
 **Responsibility:**  
-
 *	Focus on solving technical problems for all other project team  
 *	Provide advice on technical solutions  
 *	Develop fundamental modules for other team to use, such as: game content auto update system; customized UI component; plugins for 3DMax or other third party tools.  
@@ -51,7 +49,6 @@ Cellphone: (+86) 138-1696-0209
 #### Project: TaoYuan (MMORPG)  
 *Engine programmer*  
 **Responsibility**  
-
 *	Tune and refine UE3 to suit with project needs, such as Navigation meshes, 3DMax plugins, none-blocking character loading, etc. Read and modified lots of UE3 source codes.  
 *	Performances optimize.  
 *	Making Tools for designer and artists  
@@ -61,19 +58,17 @@ Cellphone: (+86) 138-1696-0209
 *	Teaching artists on using UE3, and some TA work 
 
 #### Project: TopSpeed (Car racing game)  
-*Client programmer*  
-**Responsibility**  
-
+*Client programmer*
+**Responsibility**
 *	All rendering related works.(Fixed pipeline)  
 *	Performances optimize.  
 *	Making Tools for designer and artists  
 *	Some gameplay related works.  
 
-### 2005 - 2007.5, Masq  
+### 2005 - 2007.5, Masq
 #### Project: LiuLiu (Pet game)  
 *Client programmer*  
-**Responsibility**  
-
+**Responsibility**
 *	Client Framework.  
 *	Gameplay code.  
 *	A html based UI system, using OLE, internet ActiveX control  
@@ -81,8 +76,7 @@ Cellphone: (+86) 138-1696-0209
 #### 2003 - 2005, YiXi Shanghai  
 #### Project: Salvation (MMORPG)  
 *Client programmer*  
-**Responsibility**  
-
+**Responsibility**
 *	A sky system with varying effects through day and night  
 *	Gameplay code.  
 *	Making Tools for designer and artists  

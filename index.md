@@ -27,8 +27,8 @@ Cellphone: (+86) 138-1696-0209
 
 ### 2014.9 - present, CCP shanghai
 #### Project: Gunjack  
-*Principal Technical Artist/Programmer* 
-** Responsibility: **
+*Principal Technical Artist/Programmer*  
+**Responsibility:**  
 * Providing tech support for team, figure out solutions
 * Setup art tools and work flow
 * Making tools

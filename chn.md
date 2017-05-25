@@ -5,15 +5,15 @@ Cellphone: (+86) 138-1696-0209
 [English](index.html)  
 
 ## 特长  
-* A passionate game developer, Make games since 14 years old.  
-* Quick learner, good at pattern recognition.  
-* Have a good understanding in render technics, accomplished a simple software renderer (included transforming and rasterizing)  
-* Experienced in client architecture, including resource management, multithread rendering, scripting, scene management,  etc.  
-* Familiar with reverse engineering and assembly analysis.  
-* Experienced with C++ (including C++11), and Familiar with Objective-C, Python, Object-Pascal, Basic. And understand the concepts of functional programming language , e.g. Haskell, erlang.Good art appreciation.  
-* Familiar with data structure and common algorithms.  
-* Favorite games: Quake I, StarCraft I, Dota2  
-* Hobby: Piano, Composing music, Pixel art  
+* 对游戏行业充满热情的游戏开发者，14岁开始自学做游戏 
+* 很强的学习能力
+* 扎实的图形学基础，实现过软件渲染，熟悉图形学相关的各种知识
+* 熟悉客户端架构，资源管理，多线程渲染，脚本，场景管理等 
+* 熟悉逆向工程，汇编调试  
+* 熟练的C++，Python编程能力，熟悉Objective-c , Object-Pascal, BAsic, 等其他语言
+* 良好的艺术欣赏水平
+* 熟悉数据结构和算法
+* 个人爱好: 钢琴，作曲，Pixel Art，编程 
 
 ## Experience  
 ### 个人实验项目
@@ -47,7 +47,7 @@ Cellphone: (+86) 138-1696-0209
 *	为团队提供开发工具, 比如: 自动更新系统，自定UI控件，3DMax插件等等
 
 #### 项目: 《桃园》 (MMORPG)  
-*引擎*
+*引擎程序员*
 **职责**  
 *	根据项目需求修改UE3引擎，例如：导航网格，3dmax插件，动态角色加载，等等，修改和阅读了大量UE3代码
 * 性能优化  
@@ -56,32 +56,33 @@ Cellphone: (+86) 138-1696-0209
 *	工作十分稳定的，包含自动更新系统的Game Launcher  
 *	评估第三方软件
 * 指导美术使用UE3
+* 部分gamplay相关功能
 
-#### Project: TopSpeed (Car racing game)  
-*Client programmer*
-**Responsibility**
-*	All rendering related works.(Fixed pipeline)  
-*	Performances optimize.  
-*	Making Tools for designer and artists  
-*	Some gameplay related works.  
+#### 项目: TopSpeed (Car racing game)  
+*引擎程序员*
+**职责**
+*	所有渲染相关的功能（固定管线）
+*	性能优化
+*	为策划和美术定制工具  
+*	部分gamplay相关功能  
 
 ### 2005 - 2007.5, Masq
-#### Project: LiuLiu (Pet game)  
-*Client programmer*  
-**Responsibility**
-*	Client Framework.  
-*	Gameplay code.  
-*	A html based UI system, using OLE, internet ActiveX control  
+#### 项目: 溜溜 (类似任天狗)  
+*客户端* 
+**职责**
+*	客户端框架
+*	Gameplay相关功能  
+*	基于HTML的UI，使用到了OLE，Activex 控件
 
-#### 2003 - 2005, YiXi Shanghai  
-#### Project: Salvation (MMORPG)  
-*Client programmer*  
-**Responsibility**
-*	A sky system with varying effects through day and night  
-*	Gameplay code.  
-*	Making Tools for designer and artists  
-*	Scene editor: terrain editing, scene object placement, shore wave auto generation, etc.  
-*	Dynamic map loading.  
+#### 2003 - 2005, 易昔
+#### Project: 拯救 (MMORPG)  
+*客户端 / 引擎*  
+**职责**
+*	实现包含昼夜变化的天空系统
+*	Gameplay相关功能
+*	为策划和美术定制工具 
+*	场景编辑器，物件摆放，海岸线生成，地形编辑，等等
+*	动态地图加载
 
-## Education  
-1999 - 2007, Shanghai Television University.  
+## 教育  
+1999 - 2007, 上海 电视大学

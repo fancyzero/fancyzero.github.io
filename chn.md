@@ -25,6 +25,7 @@ Cellphone: (+86) 138-1696-0209
 * 软件渲染器  
 * 劲乐团单机版（非外挂，只是利用了其美术资源，全部从零做起）   
 * 基于XML的动态UI，（用于劲乐团单机版）
+* 在UE4和Unity中实现 true impostor
 
 ### 2014.9 - 现在, CCP shanghai
 #### 项目: Gunjack  
@@ -38,24 +39,23 @@ Cellphone: (+86) 138-1696-0209
 * 研究/学习新技术
 
 ### 2007.5 - 2014.9, Playcool (Alternate: Icee)  
-#### Project: N/A
-*Technic support*  
-**Responsibility:**  
-*	Focus on solving technical problems for all other project team  
-*	Provide advice on technical solutions  
-*	Develop fundamental modules for other team to use, such as: game content auto update system; customized UI component; plugins for 3DMax or other third party tools.  
-* Learning stuff that I insrested.
+#### 项目: N/A
+*技术支持*  
+**职责:**  
+*	为所有项目团队提供技术支持
+* 为技术方案提供建议  
+*	为团队提供开发工具, 比如: 自动更新系统，自定UI控件，3DMax插件等等
 
-#### Project: TaoYuan (MMORPG)  
-*Engine programmer*  
-**Responsibility**  
-*	Tune and refine UE3 to suit with project needs, such as Navigation meshes, 3DMax plugins, none-blocking character loading, etc. Read and modified lots of UE3 source codes.  
-*	Performances optimize.  
-*	Making Tools for designer and artists  
-*	Shader template composition  
-*	Game launcher with an auto update system  
-*	Third party tools evaluation. (Cooperated with Substance Redux for few weeks).  
-*	Teaching artists on using UE3, and some TA work 
+#### 项目: 《桃园》 (MMORPG)  
+*引擎*
+**Responsibility**  
+*	根据项目需求修改UE3引擎，例如：导航网格，3dmax插件，动态角色加载，等等，修改和阅读了大量UE3代码
+* 性能优化  
+*	为策划和美术定制工具  
+*	制作材质模板 
+*	工作十分稳定的，包含自动更新系统的Game Launcher  
+*	评估第三方软件
+* 指导美术使用UE3
 
 #### Project: TopSpeed (Car racing game)  
 *Client programmer*

@@ -16,15 +16,15 @@ Cellphone: (+86) 138-1696-0209
 * Hobby: Piano, Composing music, Pixel art  
 
 ## Experience  
-### Personal Project  
-* Space shooting Indie game (WIP)  
+### 个人实验项目
+* 太空射击游戏  
 * Python for iOS  
 * Embed python using SWIG  
 * LOD Terrain system  
-* In-house Game Engine 2D/3D  
-* Software renderer  
-* O2mania (Music game) http://o2mania.com. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
-* A dynamic UI system descripted by xml(Used in o2mania)  
+* 游戏引擎
+* 软件渲染器  
+* 劲乐团单机版（非外挂，只是利用了其美术资源，全部从零做起）   
+* 基于XML的动态UI，（用于劲乐团单机版）
 
 ### 2014.9 - present, CCP shanghai
 #### Project: Gunjack  

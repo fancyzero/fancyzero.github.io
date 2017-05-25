@@ -18,7 +18,7 @@ Cellphone: (+86) 138-1696-0209
 ## 经历 
 ### 个人实验项目  
 * 太空射击游戏  
-* Python for iOS  
+* [Python for iOS](https://github.com/fancyzero/Python-iOS)
 * Embed python using SWIG  
 * LOD Terrain system  
 * 游戏引擎

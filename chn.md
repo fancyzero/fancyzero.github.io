@@ -26,17 +26,16 @@ Cellphone: (+86) 138-1696-0209
 * 劲乐团单机版（非外挂，只是利用了其美术资源，全部从零做起）   
 * 基于XML的动态UI，（用于劲乐团单机版）
 
-### 2014.9 - present, CCP shanghai
-#### Project: Gunjack  
-*Principal Technical Artist/Programmer*  
-**Responsibility:**  
-* Providing tech support for team, figure out solutions
-* Setup art tools and work flow
-* Making tools
-* Performance optimization/ Profiling
-* Help artist to using UE4
-* Using and get familiar with WWise as audio solution for project
-* Learning stuff that I insrested.
+### 2014.9 - 现在, CCP shanghai
+#### 项目: Gunjack  
+*首席TA*  
+**职责:**  
+* 为团队提供技术支持，提供解决方案
+* 设置工作流程，开发自动化工具
+* 性能测试/优化
+* 指导美术使用UE4
+* 为团队提供Wwise（声音引擎)的技术支持，制定工作流程
+* 研究/学习新技术
 
 ### 2007.5 - 2014.9, Playcool (Alternate: Icee)  
 #### Project: N/A

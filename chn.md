@@ -28,14 +28,14 @@ Cellphone: (+86) 138-1696-0209
 * 在UE4和Unity中实现 true impostor
 
 ### 2018.4 - 现在, Tencent
-#### Ocean plugin
+#### Ocean plugin  
 *高级工程师*  
-**职责:**   
+**职责:**  
 * 图形和引擎的研究和开发
 * UE4 海洋插件
 * 评估和调试Nvidia Blast UE4 插件
 
-### 2014.9 - 2018.4, CCP shanghai 
+### 2014.9 - 2018.4, CCP shanghai  
 #### 项目: Gunjack   
 *首席TA*    
 **职责:**   
@@ -85,7 +85,7 @@ Cellphone: (+86) 138-1696-0209
 #### 2003 - 2005, 易昔
 #### Project: 拯救 (MMORPG)  
 *客户端 / 引擎*  
-**职责**
+**职责**  
 *	实现包含昼夜变化的天空系统
 *	Gameplay相关功能
 *	为策划和美术定制工具 

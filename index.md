@@ -27,12 +27,12 @@ Cellphone: (+86) 138-1696-0209
 * A dynamic UI system descripted by xml(Used in o2mania)  
 
 ### 2018.4 - present, Tencent
-#### Ocean plugin
-*Senior graphic/engine programmer*
+#### Ocean plugin 
+*Senior graphic/engine programmer*  
 **Responsibility:**  
-* Graphic / Engine R&D
-* Ocean rendering based on FFT using computer shader in UE4
-* Evaluate and debug NVidia Blast plugin for UE4
+* Graphic / Engine R&D 
+* Ocean rendering based on FFT using computer shader in UE4 
+* Evaluate and debug NVidia Blast plugin for UE4 
 
 
 ### 2014.9 - 2018.4, CCP shanghai

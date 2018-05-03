@@ -26,7 +26,7 @@ Cellphone: (+86) 138-1696-0209
 * O2mania (Music game) http://o2mania.com. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
 * A dynamic UI system descripted by xml(Used in o2mania)  
 
-### 2018.4 - present Tencent
+### 2018.4 - present, Tencent
 #### Ocean plugin
 *Senior graphic/engine programmer*
 * Ocean rendering based on FFT using computer shader in UE4

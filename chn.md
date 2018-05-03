@@ -27,7 +27,14 @@ Cellphone: (+86) 138-1696-0209
 * 基于XML的动态UI，（用于劲乐团单机版）
 * 在UE4和Unity中实现 true impostor
 
-### 2014.9 - 现在, CCP shanghai 
+### 2018.4 - 现在, Tencent
+#### Ocean plugin
+*高级工程师*
+* 主要负责图形和引擎的研究和开发
+* UE4 海洋插件
+* 评估和调试Nvidia Blast UE4 插件
+
+### 2014.9 - 2018.4, CCP shanghai 
 #### 项目: Gunjack   
 *首席TA*    
 **职责:**   

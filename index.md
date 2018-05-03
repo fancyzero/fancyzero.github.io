@@ -27,7 +27,6 @@ Cellphone: (+86) 138-1696-0209
 * A dynamic UI system descripted by xml(Used in o2mania)  
 
 ### 2018.4 - present, Tencent  
-#### Ocean plugin  
 *Senior graphic/engine programmer*  
 **Responsibility:**  
 * Graphic / Engine R&D 

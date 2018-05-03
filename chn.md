@@ -28,7 +28,6 @@ Cellphone: (+86) 138-1696-0209
 * 在UE4和Unity中实现 true impostor
 
 ### 2018.4 - 现在, Tencent
-#### Ocean plugin  
 *高级工程师*  
 **职责:**  
 * 图形和引擎的研究和开发

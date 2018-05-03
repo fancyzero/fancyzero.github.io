@@ -26,18 +26,18 @@ Cellphone: (+86) 138-1696-0209
 * O2mania (Music game) http://o2mania.com. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
 * A dynamic UI system descripted by xml(Used in o2mania)  
 
-### 2018.4 - present, Tencent
-#### Ocean plugin 
-*Senior graphic/engine programmer*  
+### 2018.4 - present, Tencent  
+#### Ocean plugin  
+*Senior graphic/engine programmer*   
 **Responsibility:**  
 * Graphic / Engine R&D 
 * Ocean rendering based on FFT using computer shader in UE4 
 * Evaluate and debug NVidia Blast plugin for UE4 
 
 
-### 2014.9 - 2018.4, CCP shanghai
+### 2014.9 - 2018.4, CCP shanghai  
 #### Project: Gunjack  
-*Principal Technical Artist/Programmer*  
+*Principal Technical Artist/Programmer*    
 **Responsibility:**  
 * Providing tech support for team, figure out solutions
 * Setup art tools and work flow
@@ -68,8 +68,8 @@ Cellphone: (+86) 138-1696-0209
 *	Teaching artists on using UE3, and some TA work 
 
 #### Project: TopSpeed (Car racing game)  
-*Client programmer*
-**Responsibility**
+*Client programmer*  
+**Responsibility**  
 *	All rendering related works.(Fixed pipeline)  
 *	Performances optimize.  
 *	Making Tools for designer and artists  
@@ -78,7 +78,7 @@ Cellphone: (+86) 138-1696-0209
 ### 2005 - 2007.5, Masq
 #### Project: LiuLiu (Pet game)  
 *Client programmer*  
-**Responsibility**
+**Responsibility**  
 *	Client Framework.  
 *	Gameplay code.  
 *	A html based UI system, using OLE, internet ActiveX control  
@@ -86,7 +86,7 @@ Cellphone: (+86) 138-1696-0209
 #### 2003 - 2005, YiXi Shanghai  
 #### Project: Salvation (MMORPG)  
 *Client programmer*  
-**Responsibility**
+**Responsibility**  
 *	A sky system with varying effects through day and night  
 *	Gameplay code.  
 *	Making Tools for designer and artists  

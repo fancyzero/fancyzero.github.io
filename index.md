@@ -29,6 +29,8 @@ Cellphone: (+86) 138-1696-0209
 ### 2018.4 - present, Tencent
 #### Ocean plugin
 *Senior graphic/engine programmer*
+**Responsibility:**  
+* Graphic / Engine R&D
 * Ocean rendering based on FFT using computer shader in UE4
 * Evaluate and debug NVidia Blast plugin for UE4
 

@@ -28,11 +28,9 @@ Cellphone: (+86) 138-1696-0209
 * 在UE4和Unity中实现 true impostor
 
 ### 2018.4 - 现在, Tencent
-*高级工程师*  
+*高级工程师*     
 **职责:**  
 * 图形和引擎的研究和开发
-* UE4 海洋插件
-* 评估和调试Nvidia Blast UE4 插件
 
 ### 2014.9 - 2018.4, CCP shanghai  
 #### 项目: Gunjack   

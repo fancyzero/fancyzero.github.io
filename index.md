@@ -1,4 +1,4 @@
-# Zhou Lin (FancyZero	)  
+# Zhou Lin 
 Birth: 1981.6  
 Email: fancyzerokami@gmail.com  
 Cellphone: (+86) 138-1696-0209  
@@ -24,14 +24,30 @@ Cellphone: (+86) 138-1696-0209
 * In-house Game Engine 2D/3D  
 * Software renderer  
 * O2mania (Music game) http://o2mania.com. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
-* A dynamic UI system descripted by xml(Used in o2mania)  
+* A dynamic UI system descripted by xml(Used in o2mania) 
+* UE4 voxelization using only Blueprint and material 
+* game resource rip (Civial 6, One piece : world seeker etc.)
 
-### 2018.4 - present, Tencent  
+### 2019.8 - present, Perfect World
+*Technical Artist Expert/Leader
+**Responsibility:**  
+* providing tech support for teams
+* cel shading/ cartoon rendering shader
+* work with artists to reach their goal of art style
+
+
+### 2018.4 - 2019.7, Tencent  
 *Senior graphic/engine programmer*  
 **Responsibility:**  
 * Graphic / Engine R&D 
+* providing tech support for teams, from various of projects
 * Ocean rendering based on FFT using computer shader in UE4 
 * Evaluate and debug NVidia Blast plugin for UE4 
+* project health morniting pipeline ( unity and UE4 )
+* interactive snow
+* content generation using houdini 
+* cel shading/cartoon rendeirng solution， including nromal editing tool in 3dsMax
+
 
 
 ### 2014.9 - 2018.4, CCP shanghai  

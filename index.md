@@ -27,8 +27,8 @@ Cellphone: (+86) 138-1696-0209
 * UE4 voxelization using only Blueprint and material 
 * game resource rip (Civial 6, One piece : world seeker etc.)
 
-### 2019.8 - present, Perfect World
-*Technical Artist Expert/Leader
+### 2019.8 - present, Perfect World  
+*Technical Artist Expert/Leader*  
 **Responsibility:**  
 * providing tech support for teams
 * cel shading/ cartoon rendering shader

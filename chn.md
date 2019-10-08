@@ -1,15 +1,17 @@
 # Zhou Lin (FancyZero	)  
 Birth: 1981.6  
-Email: fancyzerokami@gmail.com  
+Email: fancyzero@live.cn
 Cellphone: (+86) 138-1696-0209  
+twiter: twitter.com/fancyzero
 [English](index.html)  
+
 
 ## 特长  
 * 对游戏行业充满热情的游戏开发者，14岁开始自学做游戏 
 * 很强的学习能力
 * 扎实的图形学基础，实现过软件渲染，熟悉图形学相关的各种知识
 * 熟悉客户端架构，资源管理，多线程渲染，脚本，场景管理等 
-* 熟悉逆向工程，汇编调试  
+* 熟悉逆向工程，汇编调试， 游戏资源提取
 * 熟练的C++，Python编程能力，熟悉Objective-c , Object-Pascal, BAsic, 等其他语言
 * 良好的艺术欣赏水平
 * 熟悉数据结构和算法
@@ -26,8 +28,17 @@ Cellphone: (+86) 138-1696-0209
 * 劲乐团单机版O2Mania（非外挂，只是利用了其美术资源，全部从零做起）   
 * 基于XML的动态UI，（用于劲乐团单机版）
 * 在UE4和Unity中实现 true impostor
+* shaderJam https://www.shadertoy.com/view/wdV3Rh
 
-### 2018.4 - 现在, Tencent
+### 2018.8 - 至今， 完美世界
+*TA专家*
+**职责：**
+*实现美术效果，协助美术确定风格
+*定制工具
+
+
+
+### 2018.4 - 2019.8, Tencent
 *高级工程师*     
 **职责:**  
 * 图形和引擎的研究和开发，技术攻坚

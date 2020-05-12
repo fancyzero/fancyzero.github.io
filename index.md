@@ -9,7 +9,7 @@ Cellphone: (+86) 138-1696-0209
 * Have a good understanding in render technics, accomplished a simple software renderer (included transforming and rasterizing)  
 * Experienced in client architecture, including resource management, multithread rendering, scripting, scene management,  etc.  
 * Familiar with reverse engineering and assembly analysis.  
-* Experienced with C++ (including C++11), and Familiar with Objective-C, Python, Object-Pascal, Basic. And understand the concepts of functional programming language , e.g. Haskell, erlang.Good art appreciation.  
+* Experienced with C++ (including C++11), and Familiar with Objective-C, Python, Object-Pascal, Basic. And understand the concepts of functional programming language, e.g. Haskell, erlang.Good art appreciation.  
 * Familiar with data structure and common algorithms.  
 * Favorite games: Quake I, StarCraft I, Dota2  
 * Hobby: Piano, Composing music, Pixel art  
@@ -22,16 +22,16 @@ Cellphone: (+86) 138-1696-0209
 * LOD Terrain system  
 * In-house Game Engine 2D/3D  
 * Software renderer  
-* O2mania (Music game) http://o2mania.com. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
-* A dynamic UI system descripted by xml(Used in o2mania) 
+* O2mania (Music game) http://o2mania.info(formerly http://o2mania.com). decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
+* A dynamic UI system described by XML(Used in o2mania) 
 * UE4 voxelization using only Blueprint and material 
-* game resource rip (Civial 6, One piece : world seeker etc.)
+* game resource rip (Civil 6, One piece: world seeker, etc.)
 
-### 2019.8 - present, Perfect World  
+### 2019.8 - 2019.12, Perfect World  
 *Technical Artist Expert/Leader*  
 **Responsibility:**  
 * providing tech support for teams
-* cel shading/ cartoon rendering shader
+* cel-shading/ cartoon rendering shader
 * work with artists to reach their goal of art style
 
 
@@ -53,13 +53,13 @@ Cellphone: (+86) 138-1696-0209
 #### Project: Gunjack  
 *Principal Technical Artist/Programmer*    
 **Responsibility:**  
-* Providing tech support for team, figure out solutions
-* Setup art tools and work flow
+* Providing tech support for the team, figure out solutions
+* Setup art tools and workflow
 * Making tools
 * Performance optimization/ Profiling
 * Help artist to using UE4
-* Using and get familiar with WWise as audio solution for project
-* Learning stuff that I insrested.
+* Using and get familiar with WWise as an audio solution for project
+* Learning stuff that I interested.
 
 ### 2007.5 - 2014.9, Playcool (Alternate: Icee)  
 #### Project: N/A

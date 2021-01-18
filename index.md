@@ -28,7 +28,7 @@ Cellphone: (+86) 138-1696-0209
 * game resource rip (Civil 6, One piece: world seeker, etc.)
 
 ### 2019.3 - , Riot Games HongKong
-*Techinical Artist III
+*Techinical Artist III*
 #### Project: League of Legends
 **Responsibility:**
 * Art pipeline

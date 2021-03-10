@@ -30,10 +30,20 @@ twiter: twitter.com/fancyzero
 * 在UE4和Unity中实现 true impostor
 * shaderJam https://www.shadertoy.com/view/wdV3Rh
 
-### 2018.8 - 至今， 完美世界
+### 2020.3 RiotGames HonogKong Singapore
+*TA*
+**职责：**
+*为皮肤团队定制工具
+*处理开发过程中的技术问题
+*培训TA
+*优化皮肤制作流程
+
+### 2019.8 - 2019.12， 完美世界
 *TA专家*
 **职责：**
 *实现美术效果，协助美术确定风格
+*制定卡通渲染方案
+*实现多个场景效果，pivot painter 植被，海水，等
 *定制工具
 
 

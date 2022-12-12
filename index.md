@@ -30,7 +30,7 @@ Cellphone: (+86) 138-1696-0209
 * game resource rip (Civil 6, One piece: world seeker, etc.)
 * Shadertoy: [https://www.shadertoy.com/user/fancyzero]https://www.shadertoy.com/user/fancyzero
 * Bilibili: [https://space.bilibili.com/445693652]https://space.bilibili.com/445693652
-* O2mania (Music game) http://o2mania.info(formerly http://o2mania.com). decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
+* O2mania (Music game) [http://o2mania.info]http://o2mania.info. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
 
 ### 2020.7 - , Wooduan
 *Techinical Artist Expert* 

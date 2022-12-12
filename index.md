@@ -2,6 +2,8 @@
 Birth: 1981.6  
 Email: fancyzero@live.cn 
 Cellphone: (+86) 138-1696-0209  
+Shadertoy: https://www.shadertoy.com/user/fancyzero
+Bilibili: https://space.bilibili.com/445693652
 
 ## Strengths  
 * A passionate game developer, Make games since 14 years old.  
@@ -27,7 +29,22 @@ Cellphone: (+86) 138-1696-0209
 * UE4 voxelization using only Blueprint and material 
 * game resource rip (Civil 6, One piece: world seeker, etc.)
 
-### 2019.3 - , Riot Games HongKong
+
+### 2020.7 - , Wooduan
+*Techinical Artist Expert* 
+#### Project: BattleTeam 2 (PC FPS)
+**Responsibility:** 
+* Coordinating with Art/Programmer,
+* Lighting pipeline
+* Material pipeline
+* Optimization
+* Advandce shaders and authoring tools
+* Reorganize art pipeline
+* Making tools for artists
+* Training other TAs
+
+
+### 2019.3 - 2020.7, Riot Games HongKong
 *Techinical Artist III* 
 #### Project: League of Legends 
 **Responsibility:** 

@@ -33,6 +33,28 @@ Bilibili: https://space.bilibili.com/445693652
 * 在UE4和Unity中实现 true impostor
 * shaderJam https://www.shadertoy.com/view/wdV3Rh
 
+
+
+### 2020.3 RiotGames HonogKong Singapore
+*TA*
+**职责：**
+* 为酷拳定制、整理、优化，美术制作管线
+* 制作渲染工具 -> 为美术制作工具(不只是渲染工具）
+* 调试/解决生产过程中美术遇到的引擎Bug
+* 制作和优化Shader以及材质
+* 为编辑器增加新的功能
+* 培训TA，使新人迅速成长
+* 建立酷拳美术与拳头技术人员的沟通渠道，将混乱的美术流程理顺，解决了大多数的工具和流程问题，大大提高了生产效率。
+
+
+### 2019.8 - 2019.12， 完美世界
+*TA专家*
+**职责：**
+*实现美术效果，协助美术确定风格
+*制定卡通渲染方案
+*实现多个场景效果，pivot painter 植被，海水，等
+*定制工具
+
 ### 2020.3 RiotGames HonogKong Singapore
 *TA*
 **职责：**

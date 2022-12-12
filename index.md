@@ -7,6 +7,8 @@ Shadertoy: https://www.shadertoy.com/user/fancyzero
 
 Bilibili: https://space.bilibili.com/445693652
 
+[Chinese](chn.html)  
+
 ## Strengths  
 * A passionate game developer, Make games since 14 years old.  
 * Quick learner, good at pattern recognition.  

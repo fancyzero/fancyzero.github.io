@@ -3,11 +3,8 @@ Birth: 1981.6
 Email: fancyzero@live.cn 
 Cellphone: (+86) 138-1696-0209  
 
-Shadertoy: https://www.shadertoy.com/user/fancyzero
 
-Bilibili: https://space.bilibili.com/445693652
-
-[Chinese](chn.html)  
+[Chinese Ver](chn.html)  
 
 ## Strengths  
 * A passionate game developer, Make games since 14 years old.  
@@ -32,7 +29,8 @@ Bilibili: https://space.bilibili.com/445693652
 * A dynamic UI system described by XML(Used in o2mania) 
 * UE4 voxelization using only Blueprint and material 
 * game resource rip (Civil 6, One piece: world seeker, etc.)
-
+* Shadertoy: https://www.shadertoy.com/user/fancyzero
+* Bilibili: https://space.bilibili.com/445693652
 
 ### 2020.7 - , Wooduan
 *Techinical Artist Expert* 

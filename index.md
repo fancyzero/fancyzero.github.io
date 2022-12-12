@@ -32,7 +32,7 @@ Cellphone: (+86) 138-1696-0209
 * Bilibili: [https://space.bilibili.com/445693652]https://space.bilibili.com/445693652
 * O2mania (Music game) [http://o2mania.info]http://o2mania.info. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
 
-### 2020.7 - , Wooduan
+### 2021.7 - , Wooduan
 *Techinical Artist Expert* 
 #### Project: BattleTeam 2 (PC FPS base on Unity 5.6)
 **Responsibility:** 

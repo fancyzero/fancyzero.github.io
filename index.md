@@ -28,9 +28,9 @@ Cellphone: (+86) 138-1696-0209
 * A dynamic UI system described by XML(Used in o2mania) 
 * UE4 voxelization using only Blueprint and material 
 * game resource rip (Civil 6, One piece: world seeker, etc.)
-* Shadertoy: [https://www.shadertoy.com/user/fancyzero]https://www.shadertoy.com/user/fancyzero
-* Bilibili: [https://space.bilibili.com/445693652]https://space.bilibili.com/445693652
-* O2mania (Music game) [http://o2mania.info]http://o2mania.info. decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
+* Shadertoy: [https://www.shadertoy.com/user/fancyzero](https://www.shadertoy.com/user/fancyzero)
+* Bilibili: [https://space.bilibili.com/445693652](https://space.bilibili.com/445693652)
+* O2mania (Music game) [http://o2mania.info](http://o2mania.info). decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
 
 ### 2021.7 - , Wooduan
 *Techinical Artist Expert* 

@@ -32,25 +32,33 @@ Bilibili: https://space.bilibili.com/445693652
 
 ### 2020.7 - , Wooduan
 *Techinical Artist Expert* 
-#### Project: BattleTeam 2 (PC FPS)
+#### Project: BattleTeam 2 (PC FPS base on Unity 5.6)
 **Responsibility:** 
-* Coordinating with Art/Programmer,
-* Lighting pipeline
-* Material pipeline
-* Optimization
+* The project is base on Unity 5.6 which is very old and the team is doing almost everything in a wrong way, so I did a lot of work with artists and programmers to figure out a better/efficient way at various stages of development.
+* Coordinating with Artists/Programmers
+* Reorganize Lighting pipeline
+* Reorganize Material pipeline
+* Optimize shaders, rendering, engine,
 * Advandce shaders and authoring tools
-* Reorganize art pipeline
+* Reorganize art assets pipeline ( assets sanity check, assets publish system )
 * Making tools for artists
-* Training other TAs
+* Training other TAs, enhance other TAs ability
+* Regular team management
 
 
-### 2019.3 - 2020.7, Riot Games HongKong
+### 2019.3 - 2021.7, Riot Games HongKong
 *Techinical Artist III* 
 #### Project: League of Legends 
 **Responsibility:** 
 * Art pipeline
 * Making tools for artists
 * Training other TAs
+* Organize and optimize art pipeline for KUDOS artists
+* Making automatic rendering tools for TFT
+* Debug and fix engine bugs 
+* Adding new feature to the LOL editor
+* Making and optimize shaders for LOL
+* Establish a cummunication between KUDOS and Riot Games, straighten out the chaotic art process, solve most of the tools and process problems, and greatly improve production efficiency
 
 
 ### 2019.8 - 2019.12, Perfect World  
@@ -59,6 +67,8 @@ Bilibili: https://space.bilibili.com/445693652
 * providing tech support for teams
 * cel-shading/ cartoon rendering shader
 * work with artists to reach their goal of art style
+* cartoon ocean 
+* automatic normal generate base on least-square for cartoon rendering
 
 
 ### 2018.4 - 2019.7, Tencent  

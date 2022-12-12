@@ -34,9 +34,9 @@ Cellphone: (+86) 138-1696-0209
 
 ### 2021.7 - , Wooduan
 *Techinical Artist Expert* 
-#### Project: BattleTeam 2 (PC FPS base on Unity 5.6)
+#### Project: BattleTeam 2 (PC FPS)
 **Responsibility:** 
-* The project is base on Unity 5.6 which is very old and the team is doing almost everything in a wrong way, so I did a lot of work with artists and programmers to figure out a better/efficient way at various stages of development.
+* The project is based on Unity 5.6 which is very old and the team is doing almost everything in a wrong way, so I did a lot of work with artists and programmers to figure out a better/efficient way at various stages of development.
 * Coordinating with Artists/Programmers
 * Reorganize Lighting pipeline
 * Reorganize Material pipeline

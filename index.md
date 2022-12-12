@@ -2,7 +2,9 @@
 Birth: 1981.6  
 Email: fancyzero@live.cn 
 Cellphone: (+86) 138-1696-0209  
+
 Shadertoy: https://www.shadertoy.com/user/fancyzero
+
 Bilibili: https://space.bilibili.com/445693652
 
 ## Strengths  

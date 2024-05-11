@@ -50,7 +50,7 @@ Bilibili: https://space.bilibili.com/445693652
 
 
 
-### 2020.3 RiotGames HonogKong Singapore
+### 2020.3 - 2021.7 RiotGames HonogKong Singapore
 *TA*
 **职责：**   
 * 为酷拳定制、整理、优化，美术制作管线

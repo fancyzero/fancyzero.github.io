@@ -1,4 +1,4 @@
-# Zhou Lin (FancyZero	)  
+# 周麟  
 Birth: 1981.6  
 Email: fancyzero@live.cn
 Cellphone: (+86) 138-1696-0209  

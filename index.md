@@ -33,7 +33,21 @@ Cellphone: (+86) 138-1696-0209
 * Bilibili: [https://space.bilibili.com/445693652](https://space.bilibili.com/445693652)
 * O2mania (Music game) [http://o2mania.info](http://o2mania.info). decrypted two popular online music game’s fileformat(O2Jam & DJMax), and developed a standalone client from scratch, not using anything from original games, except resources.   
 
-### 2021.7 - , Wooduan
+### 2023.4 - present , OmniGames
+#### Project:Cross-Platform Development of UE5 Open world ARPG
+**Responsibility:** 
+* Directed the engine team's work, ensuring that the entire system's architecture and implementation met product requirements.
+* Conducted extensive foundational technical work during the project's early stages, such as determining benchmark resources, art production processes, and technical selection in various areas.
+* Modified the engine, customized the stylized rendering pipeline, and created custom materials.
+* Assisted artists in reverse engineering scenes and characters from other games (e.g., automatic replication of scenes from The Legend of Zelda: Tears of the Kingdom, Genshin Impact, etc., into UE5).
+* Researched new technologies to assess their potential for innovation and development.
+* Promoted quality and performance by setting performance metrics and establishing automated testing processes.
+* Assisted in identifying technical risks and developing response plans.
+* Conducted development of PCG, Control Rig, GI, etc., within the UE5 framework, and guided artists in their use.
+* Organize and manage tasks to team members, provided necessary assistance, and ensured timely and high-quality delivery.
+
+
+### 2021.7 - 2023.4, Wooduan
 *Techinical Artist Expert* 
 #### Project: BattleTeam 2 (PC FPS)
 **Responsibility:** 

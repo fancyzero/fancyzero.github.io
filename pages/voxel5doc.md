@@ -13,7 +13,7 @@ to access voxel5 sampler window goto window | voxelizer
 /assets/images/voxel5doc/menu.jpg
 ### the sampler window
 ![Sampler window](/assets/images/voxel5doc/window.jpg)
-{% include embed/video.html src='/assets/images/voxel5doc/sample_a_mesh.mp4' %}
+{% include embed/video.html src='/assets/videos/voxel5doc/sample_a_mesh.mp4' %}
 ## Data set
 ## ISM
 ## Niagara

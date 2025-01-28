@@ -12,4 +12,4 @@ image:
 <iframe width="100%" height="600" frameborder="0" src="https://www.shadertoy.com/embed/slXGDl?gui=false&paused=false&muted=false" allowfullscreen></iframe>
 </html>
 
-<script> fetch('https://fancyzero.cn/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
+<script> fetch('https://fancyzero.com/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>

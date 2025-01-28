@@ -11,4 +11,4 @@ image:
 <iframe  frameborder="0" src="https://www.shadertoy.com/embed/NddBDM?gui=false&paused=false&muted=false" allowfullscreen></iframe>
 </html>
 
-<script> fetch('https://fancyzero.cn/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
+<script> fetch('https://fancyzero.com/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>

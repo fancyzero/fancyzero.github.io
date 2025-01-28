@@ -46,6 +46,6 @@ description: "Can you solve it?"
     }
     requestAnimationFrame(checkAnswer);
 </script>
-<script> fetch('https://fancyzero.cn/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
+<script> fetch('https://fancyzero.com/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
 </html>
 

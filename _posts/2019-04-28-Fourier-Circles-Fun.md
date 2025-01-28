@@ -126,5 +126,5 @@ description: "Add add add add, random, then run..."
         Explorer 8 and earlier versions.</p>
 
 </body>
-<script> fetch('https://fancyzero.cn/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
+<script> fetch('https://fancyzero.com/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
 </html>

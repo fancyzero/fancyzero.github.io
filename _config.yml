@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://fancyzero.github.io"
+url: "https://fancyzero.com"
 
 github:
   username: fancyzero # change to your GitHub username
@@ -38,6 +38,9 @@ social:
   email: fancyzero@live.cn # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://space.bilibili.com/445693652
+    - https://x.com/fancyzero
+    - https://discord.gg/6bjGnhzSKY
     - https://www.shadertoy.com/user/fancyzero
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -60,7 +63,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: fancyzero
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -74,7 +77,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #

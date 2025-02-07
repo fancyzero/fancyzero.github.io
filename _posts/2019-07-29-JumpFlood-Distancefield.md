@@ -296,5 +296,5 @@ tags: [sdf,graphics]     # TAG names should always be lowercase
         canvas.height = ctxScale * mapSize * gridSize;
         DrawMap(mapData)</script>
     
-<script> fetch('https://fancyzero.com/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
+<script> fetch('https://fancyzero.com/pvcounter/'+encodeURIComponent(window.location.pathname), { method: 'GET' });</script>
 </html>
